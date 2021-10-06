@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Leandro-Pereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true"></p> 
 
+<p align="right"> :P <b>Fun fact: Soy medio cleptomano ndeaaah</b> :P </p>
